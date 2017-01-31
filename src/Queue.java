@@ -29,7 +29,7 @@ public class Queue  {
     }
 
     void clear() {
-
+        list.clear();
     }
 
     void changeStorage(List list2) {
